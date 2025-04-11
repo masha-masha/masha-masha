@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi 👋 My name is Maria Bazhenova
+================================
+
+Frontend Developer
+------------------
+
+* 🌍  I'm based in Saint Petersburg, Russia
+* ✉️  You can contact me at [mbazhenova.314@gmail.com](mailto:mbazhenova.314@gmail.com)
+* 🧠  I'm learning React, TypeScript
 
 <!--
 **masha-masha/masha-masha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
